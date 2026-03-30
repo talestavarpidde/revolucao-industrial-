@@ -1,4 +1,7 @@
 backgroud
+body{
+    border-style: solid;
+}
 #paragrafo{
-    text-align: right;
+    text-align: left;
 }
