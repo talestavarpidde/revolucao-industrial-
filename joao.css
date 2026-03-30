@@ -1,8 +1,24 @@
-backgroud
-body{
+<<<<<<< HEAD
+*{
     border-style: solid;
 }
 
-#paragrafo{
-    text-align: left;
+.paragrafo{
+    margin-left: 60%;
 }
+.botao{
+    background-color:#98a4b8;
+    color: #272a2e;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 25px;
+}
+=======
+
+img{height: 300px;width: 600px;
+    
+}
+>>>>>>> f9105e930d20a5990fa39b16d469bc543508e0fa
