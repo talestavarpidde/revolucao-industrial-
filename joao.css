@@ -72,10 +72,9 @@
     color: #272a2e;
 }
 
-.imagem{height: 300px;width: 600px;
+.imagem{height: 300px;width: 600px; 
 display: block;
 margin: auto;
-
 }
 
 .principal{height:"1500" width="300px"
@@ -83,4 +82,12 @@ margin: auto;
 
 .pri{
     background-color:#F08D39 ;
+}
+
+p{ text-align: justify;
+    
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
