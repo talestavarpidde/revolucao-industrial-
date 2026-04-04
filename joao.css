@@ -92,3 +92,7 @@ p{ text-align: justify;
     color: #E0141E;
     text-decoration: none;
 }
+.referencias:visited {
+    color: #E0141E;
+    text-decoration: none;
+}
