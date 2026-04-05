@@ -75,19 +75,21 @@
 .imagem{height: 300px;width: 600px; 
 display: block;
 margin: auto;
+border-radius: 10px;
 }
 
-.principal{height:"1500" width="300px"
+#principal{height: 500px; width:1300px;
+    border-radius: 20px;
 }
 
-.pri{
-    background-color:#F08D39 ;
+#tabela{border-radius: 10px;
 }
 
 p{ text-align: justify;
-    
     font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
 }
+
+*{background-color: ;}
