@@ -92,10 +92,19 @@ p{ text-align: justify;
 
 .referencias:link {
     color: #E0141E;
+    text-decoration: green;
+
 }
 .referencias:visited {
     color: #E0141E;
-    text-decoration: none;
+    text-decoration: green;
+}
+
+.referencias:visited:hover{
+    color: green;
+}
+.referencias:link:hover{
+    color: green;
 }
 
 #tabela{border-radius: 10px;
