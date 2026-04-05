@@ -82,12 +82,7 @@ border-radius: 10px;
     border-radius: 20px;
 }
 
-#tabela{border-radius: 10px;
-<<<<<<< HEAD
 
-
-=======
->>>>>>> e64c63a214469a180db7a2dbf31839d22e9512d0
 p{ text-align: justify;
     font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
@@ -95,11 +90,13 @@ p{ text-align: justify;
   font-style: normal;
 }
 
-*{background-color: ;}.referencias:link {
+.referencias:link {
     color: #E0141E;
 }
 .referencias:visited {
     color: #E0141E;
     text-decoration: none;
 }
->>>>>>> e64c63a214469a180db7a2dbf31839d22e9512d0
+
+#tabela{border-radius: 10px;
+}
